@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ifopt_sample</name>
+  <version>0.0.0</version>
+  <description>The ifopt_sample package</description>
+
+  <maintainer email="sugihara@jsk.imi.i.u-tokyo.ac.jp">Kazuki Sugihara</maintainer>
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>ifopt</build_depend>
+  <build_export_depend>ifopt</build_export_depend>
+  <exec_depend>ifopt</exec_depend>
+
+</package>
